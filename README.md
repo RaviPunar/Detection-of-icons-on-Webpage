@@ -7,4 +7,6 @@ The first approach which was followed was using YOLO V3 where the outputs can be
 The second approach which can be used create the model is using VGG16 Model which is an conventional CV model used to identify objects in an image. The model is created which is using the approach of Transfer Learning where use of Early Stop and Call Back is done to save the best best model in .H5 format and later the same is used to make predictions using StreamLit. You can upload an Image using the dataset given by me and make predictions based on that.
 For this project i have created my own dataset and trained my model. There are total 43 classes which can be used identify. Use the files in the icons subfolders to identify.
 
+Well this is the Version 1.0 of this project, the future scope includes Version 2.0 which will be used for Object Detection in an image where multiple objects within an image can be Identified using the same and that will also be updated soon by me.
+
 Pre-requisites: Installed StreamLit Any Version to run .py file

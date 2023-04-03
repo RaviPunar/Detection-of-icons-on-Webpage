@@ -10,3 +10,6 @@ For this project i have created my own dataset and trained my model. There are t
 Well this is the Version 1.0 of this project, the future scope includes Version 2.0 which will be used for Object Detection in an image where multiple objects within an image can be Identified using the same and that will also be updated soon by me.
 
 Pre-requisites: Installed StreamLit Any Version to run .py file
+
+Below is the link to Google Drive for the .H5 file which has the saved Model and Weights with 43 different Classes
+Attachments: https://drive.google.com/file/d/16bkcVb8lSektGm0HKMTtjk_6wK9mcYSo/view?usp=share_link
